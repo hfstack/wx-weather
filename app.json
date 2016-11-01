@@ -5,7 +5,7 @@
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "天气预报--黄龙飞",
+    "navigationBarTitleText": "天气预报",
     "navigationBarTextStyle":"black"
   }
 }
